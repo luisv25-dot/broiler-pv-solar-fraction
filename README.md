@@ -14,7 +14,8 @@ Supplementary code and parameters for the paper:
 broiler-pv-solar-fraction/
 ├── README.md
 ├── notebooks/
-│   └── Tesis_Maestria_Obj_1_y_3.ipynb   ← main simulation notebook
+│   └── Simukation.ipynb   ←notebook
+    └── Energy_Generation.ipynb   ←notebook
 └── parameters/
     ├── equipment_counts.csv              ← N_h, N_l, N_f, N_p per scenario
     ├── model_parameters.csv              ← all fixed model constants
