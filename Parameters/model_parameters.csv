@@ -1,0 +1,57 @@
+subsystem,parameter,value,unit,source
+Geometry,Floor area per 1000 birds,81,m2,FENAVI 2024
+Geometry,Mean building height,2.5,m,FENAVI 2024
+Cycle,Grow-out days,42,days,FENAVI 2024
+Cycle,Sanitary downtime,5,days,FENAVI 2024
+Simulation,Time step,1,h,—
+Thermal control,Deadband delta,0.5,°C,—
+Thermal control,Full-load reference gap DT_ref,10,°C,—
+Thermal control,Setpoint day 1-3,30,°C,FENAVI 2024
+Thermal control,Setpoint day 4-6,29,°C,FENAVI 2024
+Thermal control,Setpoint day 7-9,28,°C,FENAVI 2024
+Thermal control,Setpoint day 10-12,27,°C,FENAVI 2024
+Thermal control,Setpoint day 13-14,26,°C,FENAVI 2024
+Thermal control,Setpoint day 15-21,24,°C,FENAVI 2024
+Thermal control,Setpoint day 22-28,23,°C,FENAVI 2024
+Thermal control,Setpoint day 29+,22,°C,FENAVI 2024
+Heating,Model,Master BV 77,—,Dantherm Group
+Heating,Equivalent thermal delivery,20,kW_th,screening assumption
+Heating,Auxiliary electricity,0.3,kW,Dantherm Group
+Heating,Fuel consumption rate,2,L/h,Dantherm Group
+Heating,Fuel lower heating value,10,kWh/L,—
+Lighting,Model,Celer avian luminaire,—,Celer 2024
+Lighting,Lamp power,25,W,Celer 2024
+Lighting,Luminous flux,3000,lm,Celer 2024
+Lighting,Schedule week 1,23,h/day,FENAVI 2024
+Lighting,Schedule after week 1,16,h/day,FENAVI 2024
+Lighting,Illuminance target week 1,40,lux,FENAVI 2024
+Lighting,Illuminance target after week 1,8,lux,FENAVI 2024
+Lighting,ON hours week 1,0-22,h,hour != 23
+Lighting,ON hours after week 1,19-abr,h,04:00-20:00
+Ventilation,Model,Vostermans V4E30K1M71100,—,Vostermans 2025
+Ventilation,Fan power,100,W,Vostermans 2025
+Ventilation,Nominal airflow at 0 Pa,2250,m3/h,Vostermans 2025
+Ventilation,ACH target day 1-3,1,h-1,—
+Ventilation,ACH target day 4-7,2,h-1,—
+Ventilation,ACH target day 8-14,3,h-1,—
+Ventilation,ACH target day 15-28,5,h-1,—
+Ventilation,ACH target day 29+,8,h-1,—
+Pumping,Model,Pearl PEP 07,—,Pearl 2024
+Pumping,Pump power,0.5,kW,Pearl 2024
+Pumping,Daily activation hours,6/12/2018,h local,—
+Pumping,Duration per cycle,20,min,—
+PV module,Model,Eco Green Energy ATLAS 540W,—,EGE 2018
+PV module,Nominal power,540,W,EGE 2018
+PV module,Length,2.279,m,EGE 2018
+PV module,Width,1.134,m,EGE 2018
+PV module,Efficiency STC,21.1,%,EGE 2018
+PV layout,Tilt angle beta,10,degrees,—
+PV layout,Min solar elevation alpha,25,degrees,—
+PV layout,Inter-row clearance g,0.3,m,—
+PV layout,Roof area factor,1.3,—,30% over floor area
+NASA POWER,Latitude,5.172323,degrees,—
+NASA POWER,Longitude,-73.632071,degrees,—
+NASA POWER,Record length,11,years,2013-2023
+NASA POWER,Irradiance variable,ALLSKY_SFC_SW_DWN,W/m2,NASA POWER API
+NASA POWER,Temperature variable,T2M,°C,NASA POWER API
+NASA POWER,Time zone,America/Bogota,UTC-5,—

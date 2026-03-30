@@ -1,0 +1,4 @@
+scenario,n_birds,a_floor_m2,a_roof_m2,N_h,N_l,N_f,N_p,rule_N_h,rule_N_l,rule_N_f,rule_N_p
+micro,2500,202.5,263.25,3,3,3,1,ceil(n_birds/1000),ceil(40lux*A_floor/3000lm),ceil(n_birds/1000),ceil(n_birds/8000)
+small,8000,648.0,842.40,8,9,8,1,ceil(n_birds/1000),ceil(40lux*A_floor/3000lm),ceil(n_birds/1000),ceil(n_birds/8000)
+large,15000,1215.0,1579.50,15,17,15,2,ceil(n_birds/1000),ceil(40lux*A_floor/3000lm),ceil(n_birds/1000),ceil(n_birds/8000)
