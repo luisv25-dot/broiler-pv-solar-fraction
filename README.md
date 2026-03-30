@@ -4,7 +4,7 @@ Supplementary code and parameters for the paper:
 
 > **Solar Fraction Modeling for Rural Broiler Farms via Synthetic Demand, K-Means Clustering, and Harmonic Approximation**  
 > Luis Velasquez, Martha P. Camargo M. et al.  
-> *WEA 2026 — Workshop on Engineering Applications, Pereira, Colombia*
+
 
 ---
 
@@ -100,13 +100,7 @@ Tilt: β = 10°, min solar elevation: α = 25°, inter-row clearance: g = 0.30 m
 
 ## Citation
 
-If you use this code or data, please cite:
-
-```
-Velasquez L., Camargo M. M.P. et al. (2026). Solar Fraction Modeling for Rural 
-Broiler Farms via Synthetic Demand, K-Means Clustering, and Harmonic Approximation. 
-In: Applied Computer Sciences in Engineering – WEA 2026. Springer, Cham.
-```
+If you use this code or data, please cite
 
 ---
 
