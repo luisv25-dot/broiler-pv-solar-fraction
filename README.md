@@ -90,7 +90,7 @@ Tilt: β = 10°, min solar elevation: α = 25°, inter-row clearance: g = 0.30 m
 
 ## How to run
 
-1. Open `notebooks/Obj_1_y_3.ipynb` in Google Colab or Jupyter
+1. Open `notebooks/Simulation.ipynb` in Google Colab or Jupyter
 2. The notebook fetches NASA POWER data via API — internet connection required
 3. Run cells sequentially (Bloque 1 → Bloque 18)
 
