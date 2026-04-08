@@ -118,15 +118,15 @@ If you use this code, data, or methodology, please cite:
   series    = {Communications in Computer and Information Science},
   publisher = {Springer, Cham},
   year      = {2026},
-  address   = {Pereira, Colombia}
+  address   = {Bogota, Colombia}
 }
 ```
 
 **Authors and affiliations:**
 
 | Author | Institution | ORCID |
-|--------|------------|-------|
-| Luis Velasquez | Universidad de la Salle, Bogotá D.C., Colombia | — |
+|--------|-------------|-------|
+| Luis Velasquez | Universidad de la Salle, Bogotá D.C., Colombia | [0009-0006-4169-9120](https://orcid.org/0009-0006-4169-9120) |
 | Harrynson Ramirez-Murillo | Universidad Distrital Francisco José de Caldas, Bogotá, Colombia | [0000-0002-3474-4783](https://orcid.org/0000-0002-3474-4783) |
 | Fabian Salazar-Cáceres | Universidad de la Salle, Bogotá D.C., Colombia | [0000-0001-5949-3979](https://orcid.org/0000-0001-5949-3979) |
 | Ricardo Rincón B | Universidad de la Salle, Bogotá D.C., Colombia | [0000-0003-3174-2835](https://orcid.org/0000-0003-3174-2835) |
