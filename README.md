@@ -101,7 +101,37 @@ Tilt: β = 10°, min solar elevation: α = 25°, inter-row clearance: g = 0.30 m
 
 ## Citation
 
-If you use this code or data, please cite
+If you use this code, data, or methodology, please cite:
+
+```bibtex
+@inproceedings{velasquez2026solarfraction,
+  author    = {Velasquez, Luis and
+               Ramirez-Murillo, Harrynson and
+               Salazar-Caceres, Fabian and
+               Rinc{\'o}n B, Ricardo and
+               Pati{\~n}o-Agudelo, Alvaro J. and
+               Camargo M., Martha P.},
+  title     = {Solar Fraction Modeling for Rural Broiler Farms via
+               Synthetic Demand, K-Means Clustering, and Harmonic
+               Approximation},
+  booktitle = {Applied Computer Sciences in Engineering -- WEA 2026},
+  series    = {Communications in Computer and Information Science},
+  publisher = {Springer, Cham},
+  year      = {2026},
+  address   = {Pereira, Colombia}
+}
+```
+
+**Authors and affiliations:**
+
+| Author | Institution | ORCID |
+|--------|------------|-------|
+| Luis Velasquez | Universidad de la Salle, Bogotá D.C., Colombia | — |
+| Harrynson Ramirez-Murillo | Universidad Distrital Francisco José de Caldas, Bogotá, Colombia | [0000-0002-3474-4783](https://orcid.org/0000-0002-3474-4783) |
+| Fabian Salazar-Cáceres | Universidad de la Salle, Bogotá D.C., Colombia | [0000-0001-5949-3979](https://orcid.org/0000-0001-5949-3979) |
+| Ricardo Rincón B | Universidad de la Salle, Bogotá D.C., Colombia | [0000-0003-3174-2835](https://orcid.org/0000-0003-3174-2835) |
+| Alvaro J. Patiño-Agudelo | Universidad de la Salle, Bogotá D.C., Colombia | [0000-0003-2991-8117](https://orcid.org/0000-0003-2991-8117) |
+| Martha P. Camargo M. | Universidad de la Salle, Bogotá D.C., Colombia | [0000-0003-2986-2467](https://orcid.org/0000-0003-2986-2467) |
 
 ---
 
